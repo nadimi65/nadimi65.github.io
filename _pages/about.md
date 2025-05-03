@@ -10,9 +10,7 @@ redirect_from:
 
 # Mission
 
-Our mission is to enhance the efficiency, quality, and sustainability of post-harvest grain systems through the integration of advanced sensing technologies, artificial intelligence, and predictive analytics.
-
-We develop and implement innovative solutions for real-time monitoring of grain storage and handling environments, focusing on key quality attributes. Our research combines electromagnetic imaging and spectroscopy with machine learning to enable early detection of spoilage, optimize storage conditions, and minimize post-harvest losses in cereals, oilseeds, and their derivatives.
+To develop industry-aligned, photonics-based technologies integrated with advanced data analytics that enhance agri-food production and storage efficiency, elevate food quality, reduce loss, and minimize environmental impacts.
 
 ---
 
