@@ -7,6 +7,37 @@ redirect_from:
   - /about.html
 ---
 
+
+## Mission
+
+Our mission is to enhance the efficiency, quality, and sustainability of post-harvest grain systems through the integration of advanced sensing technologies, artificial intelligence, and predictive analytics.
+
+We develop and apply cutting-edge solutions for real-time monitoring of grain storage environments and quality attributes. Our research spans near-infrared spectroscopy, hyperspectral imaging, electronic noses, and smart sensor networks—combined with machine learning models—to detect spoilage, optimize storage, and reduce post-harvest losses in cereals, oilseeds, and legumes.
+
+---
+
+## Join Us
+
+We are actively looking for highly motivated graduate students and research interns to join our lab at the Department of Biosystems Engineering, University of Manitoba.
+
+If you are passionate about smart sensing, agri-tech innovation, and data-driven solutions in agriculture, please feel free to [contact Dr. Nadimi](mailto:mohammad.nadimi@umanitoba.ca) with your CV and a brief statement of interest.
+
+---
+
+## Recent News
+
+### 🎓 April 2025 — **New Role**
+Dr. Nadimi joins the University of Manitoba as an Assistant Professor in Biosystems Engineering.
+
+### 📢 March 2025 — **Funding Secured**
+Our lab has been awarded a new Mitacs Globalink Research Internship grant to explore quantum sensing for grain quality monitoring.
+
+### 👋 February 2025 — **New Team Member**
+Welcome to Hamed Karami, who joins us for a 6-month research project on hybrid detection of grain spoilage using NIR and E-Nose technologies.
+
+---
+
+
 Dr. Mohammad Nadimi is an Assistant Professor of Biosystems Engineering at the University of Manitoba, Canada, renowned for his contributions to the storage, handling, and quality monitoring of cereal grains, oilseeds, leguminous crops, and their derivatives.
 
 Dr. Nadimi’s specialization includes integrating cutting-edge electronic technologies with advanced data analysis methods to improve agricultural practices. His expertise is robust in imaging, spectroscopy, laser systems, and smart sensors, which he combines with machine learning and artificial intelligence to enhance the monitoring of grain quality post-harvest and reduce post-harvest losses.
