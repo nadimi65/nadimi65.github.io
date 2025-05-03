@@ -8,32 +8,26 @@ redirect_from:
 ---
 
 
-## Mission
+# Mission
 
 Our mission is to enhance the efficiency, quality, and sustainability of post-harvest grain systems through the integration of advanced sensing technologies, artificial intelligence, and predictive analytics.
 
-We develop and apply cutting-edge solutions for real-time monitoring of grain storage environments and quality attributes. Our research spans near-infrared spectroscopy, hyperspectral imaging, electronic noses, and smart sensor networks—combined with machine learning models—to detect spoilage, optimize storage, and reduce post-harvest losses in cereals, oilseeds, and legumes.
+We develop and implement innovative solutions for real-time monitoring of grain storage and handling environments, focusing on key quality attributes. Our research combines electromagnetic imaging and spectroscopy with machine learning to enable early detection of spoilage, optimize storage conditions, and minimize post-harvest losses in cereals, oilseeds, and their derivatives.
 
 ---
 
 ## Join Us
 
-We are actively looking for highly motivated graduate students and research interns to join our lab at the Department of Biosystems Engineering, University of Manitoba.
+Dr. Nadimi is always eager to work with self-motivated and dedicated students interested in joining his research group in the Department of Biosystems Engineering at the University of Manitoba.
 
-If you are passionate about smart sensing, agri-tech innovation, and data-driven solutions in agriculture, please feel free to [contact Dr. Nadimi](mailto:mohammad.nadimi@umanitoba.ca) with your CV and a brief statement of interest.
+If you are passionate about smart sensing, agri-tech innovation, and data-driven solutions in agriculture, please visit the Opportunities tab for current openings. To apply, email your application package — including your CV and a brief statement of interest — to Dr. Nadimi, using a relevant subject line in your email.
 
 ---
 
 ## Recent News
 
 ### 🎓 April 2025 — **New Role**
-Dr. Nadimi joins the University of Manitoba as an Assistant Professor in Biosystems Engineering.
-
-### 📢 March 2025 — **Funding Secured**
-Our lab has been awarded a new Mitacs Globalink Research Internship grant to explore quantum sensing for grain quality monitoring.
-
-### 👋 February 2025 — **New Team Member**
-Welcome to Hamed Karami, who joins us for a 6-month research project on hybrid detection of grain spoilage using NIR and E-Nose technologies.
+Dr. Nadimi joined the University of Manitoba as an assistant professor of biosystems engineering.
 
 ---
 
