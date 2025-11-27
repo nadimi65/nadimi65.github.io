@@ -10,24 +10,24 @@
 main:
   - title: "Research"
     url: /portfolio/
-    
-  - title: "Team"
-    url: /talks/   
-    
-    - title: "Teaching"
-    url: /teaching/  
 
-   - title: "Publications"
+  - title: "Team"
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Publications"
     url: /publications/
-        
+
   - title: "News"
     url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
-    
+
   # - title: "CV"
   #   url: /cv-json/
-    
+
   - title: "Guide"
     url: /markdown/
